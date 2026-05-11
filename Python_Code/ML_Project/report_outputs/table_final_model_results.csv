@@ -1,0 +1,3 @@
+Model,MAE,MSE,RMSE,R²
+Final Linear Regression,791.366,981241.0289,990.5761,0.8767
+Final Random Forest Regression,840.2787,1114687.0597,1055.7874,0.8599

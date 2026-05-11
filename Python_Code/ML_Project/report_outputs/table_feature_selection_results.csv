@@ -1,0 +1,6 @@
+Feature subset,Number of features,Linear Regression MAE,Linear Regression RMSE,Linear Regression R²,Random Forest MAE,Random Forest RMSE,Random Forest R²
+Best 31 features,31,797.7702,1002.1342,0.871,847.6334,1064.8199,0.8544
+Best 15 features,15,797.4538,1001.4526,0.8712,844.6942,1061.0626,0.8554
+Best 7 features,7,797.4616,1001.1244,0.8713,843.0373,1058.8679,0.856
+Best 3 features,3,1093.9651,1363.6681,0.7613,1110.6909,1387.8416,0.7526
+Best 1 features,1,1646.5324,2054.4733,0.4584,1647.8288,2055.4998,0.4579

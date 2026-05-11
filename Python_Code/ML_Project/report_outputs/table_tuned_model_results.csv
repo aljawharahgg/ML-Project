@@ -1,0 +1,4 @@
+Model,MAE,MSE,RMSE,R²
+Linear Regression,791.0024,982113.672,991.0165,0.8765
+Random Forest Regression,864.8788,1178397.4448,1085.5402,0.8519
+Tuned Random Forest Regression,844.8639,1127545.0751,1061.8593,0.8583

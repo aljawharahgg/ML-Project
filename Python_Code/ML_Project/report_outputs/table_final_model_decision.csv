@@ -1,0 +1,5 @@
+Metric,Better When,Linear Regression,Random Forest Regression,Better Model
+MAE,Lower,791.366,840.2787,Linear Regression
+MSE,Lower,981241.0289,1114687.0597,Linear Regression
+RMSE,Lower,990.5761,1055.7874,Linear Regression
+R²,Higher,0.8767,0.8599,Linear Regression

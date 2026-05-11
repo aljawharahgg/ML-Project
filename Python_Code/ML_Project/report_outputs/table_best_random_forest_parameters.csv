@@ -1,0 +1,6 @@
+Parameter,Optimal Value Chosen
+n_estimators,300
+min_samples_split,15
+min_samples_leaf,6
+max_features,None
+max_depth,20
